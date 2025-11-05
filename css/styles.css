@@ -8,3 +8,27 @@ p {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 
 }
+
+header, footer {
+border-style:solid; 
+border-color:blueviolet;
+
+}
+
+nav{
+border-style:solid; 
+border-color:aqua;
+
+}
+
+main {
+border-style:solid; 
+border-color:black;
+
+}
+
+section {
+
+    border-style:solid; 
+border-color:darkgreen;
+}
